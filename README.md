@@ -27,4 +27,4 @@ Feito por: Enzo Lima Alves dos Santos (tic370100120)
 4. Com o ambiente configurado, basta abrir o `diagram.json` e executar o simulador
 
 ---
-Vídeo mostrando o projeto:
+Vídeo mostrando o projeto: https://drive.google.com/file/d/1DmwDx4KGsD7vWc7LjwCvgjdVZjW74wFs/view?usp=sharing
